@@ -1,14 +1,15 @@
-### Hi, I'm Elin!
+## Hi, I'm Elin! 👋
 
-I am a junior software developer with an interest in design and front end with 10 years management experience
+## A junior software developer with an interest in design and front end with 10 years management experience
  
-
----
 
 ### Connect with me :
 <div id="badges" align="left">
   <a href="https://www.linkedin.com/in/elin-svennberg-331605108/">
-   <img src="https://github.com/Johnstoncam/JohnstonCam/blob/main/img/linkedin-dark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+ <a href="">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div>
 
@@ -30,14 +31,19 @@ I am a junior software developer with an interest in design and front end with 1
 
 
 
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
+<!-- ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB) -->
 
 ---
 ![Elin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElinVS&show_icons=true&theme=vision-friendly-dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElinVS&layout=compact&theme=vision-friendly-dark)](https://github.com/ElinVS/github-readme-stats)
 
-
 <img src="https://komarev.com/ghpvc/?username=ElinVS&style=flat-square&color=blue" alt=""/>
+
+
+<!-- <details>
+  <summary>:zap: GitHub Stats</summary>
+  
+</details>  -->
 
 
