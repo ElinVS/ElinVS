@@ -1,6 +1,6 @@
 ### Hi, I'm Elin!
 
-I am a junior software developer with a background 
+I am a junior software developer with an interest in design and front end with 10 years management experience
  
 
 ---
@@ -8,7 +8,7 @@ I am a junior software developer with a background
 ### Connect with me :
 <div id="badges" align="left">
   <a href="https://www.linkedin.com/in/elin-svennberg-331605108/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+   <img src="https://github.com/Johnstoncam/JohnstonCam/blob/main/img/linkedin-dark.svg" title="Git" **alt="Git" width="40" height="40"/>
   </a>
 </div>
 
@@ -27,6 +27,7 @@ I am a junior software developer with a background
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
 
 
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
