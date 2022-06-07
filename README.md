@@ -1,6 +1,4 @@
-<div id="header" align="center">
-<!--   <img src="https://media.giphy.com/media/765ccrAiB0g9z6EApL/giphy.gif" width="100"/> -->
-</div>
+### Hi, I'm Elin!
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/elin-svennberg-331605108/">
@@ -9,10 +7,22 @@
   <img src="https://komarev.com/ghpvc/?username=ElinVS&style=flat-square&color=blue" alt=""/>
  </div>
  
-### Hi, I'm Elin!
+
 ---
 
 ### About Me :
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 💬 Ask me about ...
+- ⚡ Fun fact: ...
+
+---
+
+
+
+---
+
 
 ### Languages and Tools :
 <div>
@@ -28,9 +38,32 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElinVS&layout=compact&theme=vision-friendly-dark)](https://github.com/ElinVS/github-readme-stats)
 
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
+
+
+![Elin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElinVS&show_icons=true&theme=vision-friendly-dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElinVS&layout=compact&theme=vision-friendly-dark)](https://github.com/ElinVS/github-readme-stats)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
