@@ -9,7 +9,7 @@
 
 :seedling: Striving to become a better programmer and keep solving problems
 
-💚 CSS, HTML and React
+🤍 CSS, HTML and React
 
 
 ---
