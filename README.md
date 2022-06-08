@@ -5,9 +5,10 @@
 
 👩‍💻 I'm currently immersed in a 16 week professional software development course at CodeClan (a digital skills academy based in Scotland) which has taught me to celebrate small wins, how much you can learn (and forget) in a short time and that errors are your friend!
 
-:telescope: I'm currently learning everything and so far I have enjoyed working with React and Javascript and want to become better at these
+:telescope: I'm currently learning everything and so far I have enjoyed working with React and Javascript and motivated to learn more
 
-:seedling: Looking forward to learning more, striving to become a better programmer and keep solving problems 
+:seedling: Striving to become a better programmer, keep solving problems and 
+
 
 ---
 
