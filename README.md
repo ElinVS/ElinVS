@@ -1,30 +1,17 @@
 <h1 align="left"> Hey there, I'm Elin 👋 </h1>
 
-<h3 align="left">  I'm an junior software developer who is interested in 
-design and front end. Enthusiast of simple things
-graphic design and illustration. Internet citizen. </h3>
+<h3 align="left">  I'm a junior software developer who is interested in front end and user focused design. Enthusiast of simple things and clean code. Happy to be here! </h3>
 
  
 
 ### Connect with me :
-<div id="badges" align="left">
-  <a href="https://www.linkedin.com/in/elin-svennberg-331605108/">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
- <a href="">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
  
  <p align="left">
 
-   <a href="https://www.linkedin.com/in/elin-svennberg-331605108//"><img alt="LinkedIn" src="https://img.shields.io/badge/-elinsvennberg-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elin-svennberg/"></a>
-  
-   <a href="mailto:elinvsvennberg@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-elinvsvennberg@gmail.com-black?style=flat-square&logo=Gmail&logoColor=white&link=mailto:elinvsvennberg@gmail.com"></a>
+   <a href="https://www.linkedin.com/in/elin-svennberg-331605108//"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-121212?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elin-svennberg/"></a>
+   <a href="mailto:elinvsvennberg@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-121212?style=flat-square&logo=Gmail&logoColor=white&link=mailto:elinvsvennberg@gmail.com"></a>
 
 </p>
-
- 
-</div>
 
 ---
 
