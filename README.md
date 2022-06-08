@@ -2,6 +2,13 @@
 
 <h3 align="left">  I'm a junior software developer who is interested in front end and user focused design. Enthusiast of simple things and clean code. Happy to be here! </h3>
 
+
+👩‍💻 I'm currently immersed in a 16 week professional software development course at CodeClan (a digital skills academy based in Scotland) which has thought me to celebrate small wins, how much you can learn (and forget) in a short time and errors are your friend!
+
+:seedling: I'm currently learning everything
+
+⚡️ Fun fact...
+
  
 
 ### Connect with me :
