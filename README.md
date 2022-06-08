@@ -1,15 +1,15 @@
 <h1 align="left"> Hey there, I'm Elin 👋 </h1>
-
-<h3 align="left">  I'm a junior software developer who is interested in front end and user focused design. Enthusiast of simple things and clean code. Happy to be here! </h3>
-
-
-👩‍💻 I'm currently immersed in a 16 week professional software development course at CodeClan (a digital skills academy based in Scotland) which has thought me to celebrate small wins, how much you can learn (and forget) in a short time and that errors are your friend!
-
-:seedling: I'm currently learning everything
-
-⚡️ Fun fact...
-
  
+<h2 align="left">  I'm a junior software developer who is interested in front end and user focused design. Enthusiast of simple things and clean code. Happy to be here! </h2>
+
+
+👩‍💻 I'm currently immersed in a 16 week professional software development course at CodeClan (a digital skills academy based in Scotland) which has taught me to celebrate small wins, how much you can learn (and forget) in a short time and that errors are your friend!
+
+:telescope: I'm currently learning everything and so far I have enjoyed working with React and Javascript and want to become better at these
+
+:seedling: Looking forward to learning more, striving to become a better programmer and keep solving problems 
+
+---
 
 ### Connect with me :
  
