@@ -1,13 +1,15 @@
-<h1 align="left"> Hey there, I'm Elin 👋 </h1>
+<h1 align="left"> Hey, I'm Elin 👋 </h1>
  
 <h2 align="left">  I'm a junior software developer who is interested in front end and user focused design. Enthusiast of simple things and clean code. Happy to be here! </h2>
 
 
 👩‍💻 I'm currently immersed in a 16 week professional software development course at CodeClan (a digital skills academy based in Scotland) which has taught me to celebrate small wins, how much you can learn (and forget) in a short time and that errors are your friend!
 
-:telescope: I'm currently learning everything and so far I have enjoyed working with React and Javascript and motivated to learn more
+:telescope: I'm currently learning Python, Javascript and Java
 
-:seedling: Striving to become a better programmer, keep solving problems and 
+:seedling: Striving to become a better programmer and keep solving problems
+
+💚 CSS, HTML and React
 
 
 ---
@@ -28,7 +30,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -54,7 +55,6 @@
 
 <!-- <details>
   <summary>:zap: GitHub Stats</summary>
-  
 </details>  -->
 
 
