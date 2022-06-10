@@ -5,7 +5,7 @@
  
 <h1 align="left"> I'm Elin </h1> 
 
-<h2 align="left"> <img src="images/peep-11.png" title="Banner-image" **alt="Banner-image" width="70" height="80"/>  I'm a junior software developer who is interested in front end and user focused design. Enthusiast of simple things and clean code. Happy to be here! </h2>
+<h2 align="left"> <img src="images/peep-11.png" title="Banner-image" **alt="Banner-image" width="70" height="80"/>  I'm a junior software developer interested in front end and user focused design with 10 years management experience</h2>
 
 
 👩‍💻 I'm currently immersed in a 16 week professional software development course at CodeClan (a digital skills academy based in Scotland) which has taught me to celebrate small wins, how much you can learn (and forget) in a short time and that errors are your friend!
