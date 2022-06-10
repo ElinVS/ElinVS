@@ -10,11 +10,13 @@
 
 👩‍💻 I'm currently immersed in a 16 week professional software development course at CodeClan (a digital skills academy based in Scotland) which has taught me to celebrate small wins, how much you can learn (and forget) in a short time and that errors are your friend!
 
-:telescope: I'm currently learning Python, Javascript and Java
+:telescope: I'm learning Python, Javascript and Java
 
 :seedling: Striving to become a better programmer and keep solving problems
 
 💙 CSS, HTML and React
+
+🇸🇪 Originally from Sweden, stopped off in 🇮🇸 Iceland for a few years and now reside in 🏴󠁧󠁢󠁳󠁣󠁴󠁿 bonnie Scotland
 
 <img src="https://komarev.com/ghpvc/?username=ElinVS&style=flat-circle&color=3685B5" alt=""/>
 
