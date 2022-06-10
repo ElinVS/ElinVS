@@ -73,6 +73,8 @@
 
 ---
 
+## 📌 Pinned Projects 
+
 ### Erik: Educational Support App (group)
 
 ### [Go to Repository](https://github.com/ElinVS/Educational_aid)
@@ -84,7 +86,7 @@
 * CSS
 * HTML
  
-----------------
+
 
 ## Pet Buddy: Vet Management App (solo)
 
@@ -102,7 +104,6 @@
 * HTML
 * CSS
 
-------------
 
 ## Rock Paper Scissors: Online version of the classic game (solo)
 
