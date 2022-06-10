@@ -1,9 +1,9 @@
 
 <div>
-<img src="images/nameandbrackets.png" title="Banner-image" **alt="Banner-image" width="1200" height="400"/>
+<img src="images/hello (3).png" title="Banner-image" **alt="Banner-image" width="1200" height="400"/>
 </div>
  
-<h1 align="left">  Hey, I'm Elin </h1> 
+<h1 align="left"> I'm Elin </h1> 
 
 <h2 align="left"> <img src="images/peep-11.png" title="Banner-image" **alt="Banner-image" width="70" height="80"/>  I'm a junior software developer who is interested in front end and user focused design. Enthusiast of simple things and clean code. Happy to be here! </h2>
 
