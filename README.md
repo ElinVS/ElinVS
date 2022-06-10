@@ -25,7 +25,7 @@
  <p align="left">
 
    <a href="https://www.linkedin.com/in/elin-svennberg-331605108//"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-3685B5?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elin-svennberg/"></a>
-   <a href="mailto:elinvsvennberg@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-3685B5?style=flat-circle&logo=Gmail&logoColor=white&link=mailto:elinvsvennberg@gmail.com"></a>
+   <a href="mailto:elinvsvennberg@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-AA2422?style=flat-circle&logo=Gmail&logoColor=white&link=mailto:elinvsvennberg@gmail.com"></a>
 
 </p>
 
@@ -56,7 +56,7 @@
 <br>
 
 
-***
+---
 
 <details>
  <summary><h3>GitHub Stats</h3></summary>
