@@ -25,8 +25,8 @@
 ### Connect with me 
  
 <p align="left">
-   <a href="https://www.linkedin.com/in/elin-svennberg-331605108//"><img width="40" alt="LinkedIn" src="images/square_linkedin.png" padding="10"></a>
-   <a href="mailto:elinvsvennberg@gmail.com"><img width="40" alt="Gmail" src="images/email_icon.png"></a>
+   <a href="https://www.linkedin.com/in/elin-svennberg-331605108//"><img width="30" alt="LinkedIn" src="images/square_linkedin.png" padding="10"></a>&nbsp;&nbsp;&nbsp;
+   <a href="mailto:elinvsvennberg@gmail.com"><img width="30" alt="Gmail" src="images/gmail_icon.png"></a>
 </p>
 
 ---
@@ -58,20 +58,15 @@
 
 <details>
  <summary><h3>GitHub Stats</h3></summary>
-
   <img align="left" alt="Elin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ElinVS&show_icons=true&hide_border=false&title_color=3685B5&icon_color=D7BE82&bg_color=09131B&text_color=ffffff&border_color=3685B5" />
- 
    <img align="left" alt="Elin's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElinVS&layout=compact&show_icons=true&hide_border=false&title_color=3685B5&icon_color=3685B5&bg_color=09131B&text_color=ffffff&border_color=3685B5" />
- 
 </details>
-
-
 
 ---
 <h3>📌 Pinned Projects</h3>
  
 
-### Erik: Educational Support App (group)
+## Erik: Educational Support App (group)
 
 ### [Go to Repository](https://github.com/ElinVS/Educational_aid)
 * JavaScript
