@@ -5,7 +5,7 @@
  
 <h1 align="left"> I'm Elin </h1> 
 
-<h2 align="left"> <img src="images/peep-11.png" title="Banner-image" **alt="Banner-image" width="70" height="80"/>  I'm a junior software developer interested in front end and user focused design with 10 years management experience</h2>
+<h2 align="left"> <img src="images/peep-11.png" title="Banner-image" **alt="Banner-image" width="70" />  I'm a junior software developer interested in front end and user focused design with 10 years management experience</h2>
 
 
 👩‍💻 I'm currently immersed in a 16 week professional software development course at CodeClan (a digital skills academy based in Scotland) which has taught me to celebrate small wins, how much you can learn (and forget) in a short time and that errors are your friend!
@@ -18,7 +18,7 @@
 
 🇸🇪 Originally from Sweden, stopped off in 🇮🇸 Iceland for a few years and now reside in 🏴󠁧󠁢󠁳󠁣󠁴󠁿 bonnie Scotland
 
-<img src="https://komarev.com/ghpvc/?username=ElinVS&style=flat-circle&color=3685B5" alt=""/>
+<!-- <img src="https://komarev.com/ghpvc/?username=ElinVS&style=flat-circle&color=3685B5" alt=""/> -->
 
 ---
 
