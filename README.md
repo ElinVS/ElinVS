@@ -29,6 +29,9 @@
 
    <a href="https://www.linkedin.com/in/elin-svennberg-331605108//"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-3685B5?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elin-svennberg/"></a>
    <a href="mailto:elinvsvennberg@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-AA2422?style=flat-circle&logo=Gmail&logoColor=white&link=mailto:elinvsvennberg@gmail.com"></a>
+ 
+  <a href="https://www.linkedin.com/in/elin-svennberg-331605108//"><img width="40" alt="LinkedIn" src="images/square_linkedin.png"></a>
+   <a href="mailto:elinvsvennberg@gmail.com"><img alt="Gmail" src="images/icon_gmail.png"></a>
 </p>
 
 ---
