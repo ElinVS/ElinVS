@@ -71,7 +71,50 @@
 
 
 
+---
+
+### Erik: Educational Support App (group)
+
+### [Go to Repository](https://github.com/ElinVS/Educational_aid)
+* JavaScript
+* Node.js
+* React.js
+* React Router
+* MongoDB
+* CSS
+* HTML
+ 
+----------------
+
+## Pet Buddy: Vet Management App (solo)
+
+<div align = "center">    
+<img width="600px" alt="Pet-Buddy" src="https://github.com/ElinVS/vet_management_project/raw/main/static/images/pet_buddy.png">
+</div>
 
 
+### [Go to Repository](https://github.com/ElinVS/vet_management_project)
+* Python
+* Flask
+* Jinja 
+* PostgreSQL
+* Psycopg
+* HTML
+* CSS
+
+------------
+
+## Rock Paper Scissors: Online version of the classic game (solo)
+
+
+<div align = "center">    
+<img width="600px" alt="RPS" src="https://github.com/ElinVS/Rock_Paper_Scissors/raw/main/static/images/rps.png">
+</div>
+
+### [Go to Repository](https://github.com/ElinVS/Rock_Paper_Scissors)
+* Python
+* Flask
+* HTML
+* CSS
 
 
