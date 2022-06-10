@@ -19,7 +19,7 @@
 <img src="https://komarev.com/ghpvc/?username=ElinVS&style=flat-square&color=blue" alt=""/>
 
 
----
+
 
 ### Connect with me 
  
@@ -30,7 +30,7 @@
 
 </p>
 
----
+
 
 ### Languages and Tools 
 
@@ -58,18 +58,15 @@
 <br />
 
 
-<!-- ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB) -->
-
----
-<!-- ![Elin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElinVS&show_icons=true&theme=vision-friendly-dark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElinVS&layout=compact&theme=vision-friendly-dark)](https://github.com/ElinVS/github-readme-stats) -->
 
 <details>
-  <summary>GitHub Stats</summary>
+ 
+ <summary><h3>GitHub Stats</h3></summary>
 
-  <img align="left" alt="Elin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ElinVS&show_icons=true&hide_border=false&title_color=C3ACCE&icon_color=3685B5&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
+  <img align="left" alt="Elin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ElinVS&show_icons=true&hide_border=false&title_color=D7BE82&icon_color=3685B5&bg_color=09131B&text_color=ffffff&border_color=D7BE82" />
+ 
+   <img align="left" alt="Elin's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElinVS&layout=compact&show_icons=true&hide_border=false&title_color=D7BE82&icon_color=3685B5&bg_color=09131B&text_color=ffffff&border_color=D7BE82" />
+ 
 </details>
 
 
