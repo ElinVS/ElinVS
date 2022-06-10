@@ -72,8 +72,8 @@
 
 
 ---
-
-## 📌 Pinned Projects 
+<h3>📌 Pinned Projects</h3>
+ 
 
 ### Erik: Educational Support App (group)
 
