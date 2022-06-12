@@ -109,8 +109,7 @@
  <summary><h3>GitHub Stats</h3></summary>
   <img align="left" alt="Elin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ElinVS&show_icons=true&hide_border=false&title_color=3685B5&icon_color=D7BE82&bg_color=09131B&text_color=ffffff&border_color=3685B5" />
    <img align="left" alt="Elin's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElinVS&layout=compact&show_icons=true&hide_border=false&title_color=3685B5&icon_color=3685B5&bg_color=09131B&text_color=ffffff&border_color=3685B5" />
-</details>
-<br>
-<br>
 
+ 
+</details>
 
