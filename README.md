@@ -51,18 +51,12 @@
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Slack" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" style="padding-right:10px;" />
+
 <br>
 <br>
 
 ---
 
-<details>
- <summary><h3>GitHub Stats</h3></summary>
-  <img align="left" alt="Elin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ElinVS&show_icons=true&hide_border=false&title_color=3685B5&icon_color=D7BE82&bg_color=09131B&text_color=ffffff&border_color=3685B5" />
-   <img align="left" alt="Elin's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElinVS&layout=compact&show_icons=true&hide_border=false&title_color=3685B5&icon_color=3685B5&bg_color=09131B&text_color=ffffff&border_color=3685B5" />
-</details>
-
----
 <h3>📌 Pinned Projects</h3>
  
 
@@ -108,5 +102,15 @@
 * Flask
 * HTML
 * CSS
+
+---
+
+<details>
+ <summary><h3>GitHub Stats</h3></summary>
+  <img align="left" alt="Elin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ElinVS&show_icons=true&hide_border=false&title_color=3685B5&icon_color=D7BE82&bg_color=09131B&text_color=ffffff&border_color=3685B5" />
+   <img align="left" alt="Elin's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElinVS&layout=compact&show_icons=true&hide_border=false&title_color=3685B5&icon_color=3685B5&bg_color=09131B&text_color=ffffff&border_color=3685B5" />
+</details>
+<br>
+<br>
 
 
