@@ -1,6 +1,6 @@
 
 <div>
-<img src="images/hello (3).png" title="Banner-image" **alt="Banner-image" width="1200" height="400"/>
+<img src="images/hellotherebanner.png" title="Banner-image" **alt="Banner-image" width="1200" height="200"/>
 </div>
  
 <h1 align="left"> I'm Elin </h1> 
