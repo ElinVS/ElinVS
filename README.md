@@ -1,18 +1,12 @@
 
-<div>
-<img src="images/hellotherebanner.png" title="Banner-image" **alt="Banner-image" width="1200" height="200"/>
-</div>
- 
 <h1 align="left"> I'm Elin </h1> 
 
-<h2 align="left"> <img src="images/peep-11.png" title="Banner-image" **alt="Banner-image" width="70" /> A junior software developer interested in front end and user focused design with 10 years management experience</h2>
+<h2 align="left"> A junior software developer interested in front end and user centered design with 10 years management experience</h2>
 
+👩‍💻 CodeClan graduate
 
-👩‍💻 I'm currently immersed in a 16 week professional software development course at CodeClan (a digital skills academy based in Scotland) which has taught me to celebrate small wins, how much you can learn (and forget) in a short time and that errors are your friend!
+:telescope: Working on learning more about React, JavaScript, HTML and CSS
 
-:telescope: I'm learning Python, Javascript and Java
-
-:seedling: Striving to become a better programmer and keep solving problems
 
 💙 CSS, HTML and React
 
