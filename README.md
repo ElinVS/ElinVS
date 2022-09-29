@@ -7,7 +7,7 @@
 <h4> CodeClan graduate </h4>
 
 <img align="left" width="40px" src="https://user-images.githubusercontent.com/99321412/192997554-4a8d195a-82b5-4327-8fe9-35c8fc2761de.png" /> 
-<h4> Recent software development convert and what an amazing skill to be learning /h4>
+<h4> Recent software development convert and what an amazing skill to be learning </h4>
 
 
 <img align="left" width="40px" src="https://user-images.githubusercontent.com/99321412/192998650-782ada5c-7a8b-48e5-a9b7-1b724b6841d7.png" /> 
